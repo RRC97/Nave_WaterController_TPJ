@@ -1,0 +1,6 @@
+C:\Users\Joao.Barbosa\Desktop\WaterController\WaterController\bin\Debug\WaterController.exe.config
+C:\Users\Joao.Barbosa\Desktop\WaterController\WaterController\bin\Debug\WaterController.exe
+C:\Users\Joao.Barbosa\Desktop\WaterController\WaterController\bin\Debug\WaterController.pdb
+C:\Users\Joao.Barbosa\Desktop\WaterController\WaterController\obj\Debug\WaterController.csprojResolveAssemblyReference.cache
+C:\Users\Joao.Barbosa\Desktop\WaterController\WaterController\obj\Debug\WaterController.exe
+C:\Users\Joao.Barbosa\Desktop\WaterController\WaterController\obj\Debug\WaterController.pdb
